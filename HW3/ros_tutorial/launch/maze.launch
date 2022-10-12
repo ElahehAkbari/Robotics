@@ -1,0 +1,8 @@
+<launch>
+    
+    <node pkg="ros_tutorial" type="follow_maze.py" name="follow_maze" output="screen" ></node>
+    <include file="$(find ros_tutorial)/launch/turtlebot3_maze.launch"> 
+    </include>
+    
+   
+</launch>

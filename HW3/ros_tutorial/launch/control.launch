@@ -1,0 +1,9 @@
+<launch>
+
+    <node pkg="ros_tutorial" type="follow_wall.py" name="follow_wall" output="screen" ></node>
+
+    <include file="$(find ros_tutorial)/launch/turtlebot3_square.launch">        
+    </include>
+    
+   
+</launch>
