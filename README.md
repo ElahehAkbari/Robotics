@@ -11,9 +11,8 @@ Four ROS nodes are implemented. A message is published from random_student node 
 This project includes a PID Controller to keep the robot moving on a specific path.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79719208/195675084-c10c9c3c-601d-45b6-8e87-d54662f60a39.png" width=26% height=26%>
-  <img src="https://user-images.githubusercontent.com/79719208/195676665-e5cd7ec0-1aad-4467-a906-dbad8324a0ae.png" width=27% height=27%>
-  <img src="https://user-images.githubusercontent.com/79719208/195677224-351b888c-8841-46c8-a66e-e426b815ae37.png" width=34% height=34%>
+  <img src="https://user-images.githubusercontent.com/79719208/195675084-c10c9c3c-601d-45b6-8e87-d54662f60a39.png" width=39% height=39%>
+  <img src="https://user-images.githubusercontent.com/79719208/195676665-e5cd7ec0-1aad-4467-a906-dbad8324a0ae.png" width=41% height=41%>
 </p>
 
 # Sensors
